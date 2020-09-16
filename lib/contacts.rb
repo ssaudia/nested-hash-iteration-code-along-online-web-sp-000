@@ -3,7 +3,7 @@ require 'pry'
   # contacts = {
   #   "Jon Snow" => {
   #     name: "Jon",
-  #     email: "jon_snow@thewall.we", 
+  #     email: "jon_snow@thewall.we",
   #     favorite_icecream_flavors: ["chocolate", "vanilla"]
   #   },
   #   "Freddy Mercury" => {
